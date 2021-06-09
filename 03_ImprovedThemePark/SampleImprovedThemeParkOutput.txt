@@ -1,0 +1,55 @@
+Enjoy your ride on the Roller Coaster.
+You have PHP 374.75 remaining.
+Enjoy your ride on the Carousel.
+Enjoy your ride on the Ferris Wheel.
+Ticket rejected. Insufficient credit for the Roller Coaster.
+Enjoy your ride on the Carousel.
+You have PHP 450.51 remaining.
+Enjoy your ride on the Ferris Wheel.
+Ticket rejected. Insufficient credit for the Roller Coaster.
+Enjoy your ride on the Carousel.
+Enjoy your ride on the Ferris Wheel.
+You have PHP 418.19 remaining.
+Enjoy your ride on the Roller Coaster.
+Enjoy your ride on the Carousel.
+Ticket rejected. Insufficient credit for the Ferris Wheel.
+Enjoy your ride on the Roller Coaster.
+You have PHP 374.75 remaining.
+Enjoy your ride on the Carousel.
+Enjoy your ride on the Ferris Wheel.
+Ticket rejected. Insufficient credit for the Roller Coaster.
+Enjoy your ride on the Carousel.
+You have PHP 450.51 remaining.
+Enjoy your ride on the Ferris Wheel.
+Ticket rejected. Insufficient credit for the Roller Coaster.
+Enjoy your ride on the Carousel.
+Enjoy your ride on the Ferris Wheel.
+You have PHP 418.19 remaining.
+Enjoy your ride on the Roller Coaster.
+Enjoy your ride on the Carousel.
+Ticket rejected. Insufficient credit for the Ferris Wheel.
+Enjoy your ride on the Roller Coaster.
+You have PHP 374.75 remaining.
+Enjoy your ride on the Roller Coaster.
+You have PHP 249.50 remaining.
+Enjoy your ride on the Ferris Wheel.
+You have PHP 336.38 remaining.
+Enjoy your ride on the Carousel.
+You have PHP 401.02 remaining.
+Enjoy your ride on the Roller Coaster.
+You have PHP 249.50 remaining.
+Enjoy your ride on the Ferris Wheel.
+You have PHP 336.38 remaining.
+Enjoy your ride on the Carousel.
+You have PHP 401.02 remaining.
+Enjoy your ride on the Roller Coaster.
+You have PHP 249.50 remaining.
+----------------- MY THEME PARK SALES REPORT -----------------
+|   Scanner | Collection | SAT | AAT | REJECT | RC | FW | CL |
+--------------------------------------------------------------
+| Scanner 1 | PHP 606.03 |   3 |   4 |      0 |  3 |  1 |  3 |
+| Scanner 2 | PHP 213.11 |   1 |   2 |      3 |  0 |  2 |  1 |
+| Scanner 3 | PHP 513.10 |   4 |   2 |      0 |  2 |  2 |  2 |
+| Scanner 4 | PHP 273.72 |   2 |   2 |      2 |  1 |  0 |  3 |
+| Scanner 5 | PHP 545.42 |   2 |   4 |      1 |  2 |  3 |  1 |
+--------------------------------------------------------------

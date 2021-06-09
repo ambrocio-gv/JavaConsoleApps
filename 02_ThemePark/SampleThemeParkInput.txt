@@ -1,0 +1,11 @@
+ts1 RollerCoaster single 125.25
+ts1 FerrisWheel all 148.62
+ts3 Carousel all 23.23
+ts2 Carousel single 49.49
+ts3 FerrisWheel single 81.81
+ts1 Carousel all 54.54
+ts2 FerrisWheel single 81.81
+ts2 RollerCoaster all 122.19
+ts3 RollerCoaster all 47.37
+ts1 FerrisWheel single 81.81
+quit

@@ -1,0 +1,17 @@
+Enjoy your ride on the Roller Coaster.
+Enjoy your ride on the Ferris Wheel.
+Ticket rejected. Insufficient credit for the Carousel.
+Enjoy your ride on the Carousel.
+Enjoy your ride on the Ferris Wheel.
+Enjoy your ride on the Carousel.
+Enjoy your ride on the Ferris Wheel.
+Ticket rejected. Insufficient credit for the Roller Coaster.
+Ticket rejected. Insufficient credit for the Roller Coaster.
+Enjoy your ride on the Ferris Wheel.
+----------------- MY THEME PARK SALES REPORT -----------------
+|   Scanner | Collection | SAT | AAT | REJECT | RC | FW | CL |
+--------------------------------------------------------------
+| Scanner 1 | PHP 338.36 |   2 |   2 |      0 |  1 |  2 |  1 |
+| Scanner 2 | PHP 131.30 |   2 |   1 |      1 |  0 |  1 |  1 |
+| Scanner 3 | PHP  81.81 |   1 |   2 |      2 |  0 |  1 |  0 |
+--------------------------------------------------------------
