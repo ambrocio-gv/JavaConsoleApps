@@ -1,5 +1,5 @@
 ##Title
-ImprovedThemePark
+Improved ThemePark - Console App
 
 ##Introduction
 Learn the concept of using arrays in extension with the previous theme park project.
